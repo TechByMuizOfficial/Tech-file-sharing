@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://t.me/Tech_Muiz_Official">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Tech Muiz Official Channel">
+    <img src="https://img.shields.io/badge/Tech%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Tech Muiz Official Channel">
   </a>
   <a href="https://t.me/Tech_Muiz_Official_Chat">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Tech Muiz Official Group">
+    <img src="https://img.shields.io/badge/Tech%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Tech Muiz Official Group">
   </a>
 </p>
 
