@@ -22,7 +22,6 @@ from config import (
     IS_VERIFY,
     VERIFY_EXPIRE,
     SHORTLINK_API,
-    SHORTLINK_M,
     SHORTLINK_URL,
     DISABLE_CHANNEL_BUTTON,
     PROTECT_CONTENT,
@@ -160,7 +159,7 @@ async def start_command(client: Client, message: Message):
                 TUT_VID = f"https://t.me/ultroid_official/18"
                 token = ''.join(random.choices(string.ascii_letters + string.digits, k=10))
                 await update_verify_status(id, verify_token=token, link="")
-                link = await get_shortlink(SHORTLINK_URL, SHORTLINK_API,f'https://telegram.dog/{client.username}?start=verify_{token}', SHORTLINK_M')
+                link = await get_shortlink(SHORTLINK_URL, SHORTLINK_API,f'https://telegram.dog/{client.username}?start=verify_{token}')
                 btn = [
                     [InlineKeyboardButton("Click here", url=link)]
                       ]
